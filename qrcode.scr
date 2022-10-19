@@ -1,0 +1,9 @@
+QRCODE
+TE12433/00 // QR kód szövege
+egyedi_kód_ide_jön
+0,0,0  // X, Y, Z
+0.4 //SCALE x
+0.4 //SCALE y
+0 //Rotate
+
+// A kommenteket ki kell törölni, az egyedi kódba ékezet speckó karakter nem kerülhet, célszerű számokat tenni bele. 
